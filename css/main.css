@@ -1,0 +1,26 @@
+.supreme {
+  height: 400px;
+  width: 400px;
+}
+/*h1*/
+.preme h1 {
+  font-family: Arial, sans-serif;
+  font-size: 60px;
+  text-decoration: line-through;
+}
+
+.preme h1.new-text {
+  font-family: monospace;
+  font-size: 20px;
+}
+.thing {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+}
+
+.ting {
+  background-color: pink;
+  width: 200px;
+  height: 200px;
+}
